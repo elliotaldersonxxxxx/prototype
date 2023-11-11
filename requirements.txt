@@ -1,13 +1,9 @@
-pip install numpy
-pip install scipy
-pip install scikit-learn
-pip install Theano
-pip install tensorflow
-pip install keras
-pip install pytorch
-pip install pandas
-pip install matplotlib
-pip install Theano
-pip install keras
-pip install pytorch
-pip install mxnet
+numpy
+scipy
+scikit-learn
+Theano
+tensorflow
+keras
+torch
+pandas
+matplotlib
